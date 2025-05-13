@@ -14,8 +14,8 @@ It visualizes data across categories, time, states, and customer profits.
 - Interactive filtering by year and category
 
   ## Dashboard
-<a href="![Screenshot 2025-05-13 144743](https://github.com/user-attachments/assets/ffdd3054-0b57-4e5a-b307-09e186fe2eb0)
-">Dashboard image</a>
+![Screenshot 2025-05-13 144743](https://github.com/user-attachments/assets/5233ea50-1672-4644-8a16-149c3f825c7d)
+
 
 
  
