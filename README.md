@@ -13,3 +13,11 @@ It visualizes data across categories, time, states, and customer profits.
 - Top 5 profitable customers
 - Interactive filtering by year and category
 
+  ## Dashboard
+  - ![Screenshot 2025-05-13 144743](https://github.com/user-attachments/assets/4dede549-3359-4a37-a806-b11988abc30e)
+ 
+  ## Tools Used
+- Microsoft Excel (Pivot Tables, Charts, Slicers)
+- Data Visualization
+
+
